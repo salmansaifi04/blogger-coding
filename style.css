@@ -33,12 +33,12 @@
     float: left;
     padding: 2% 0 0 3%;
     height: 270px;
-    width: 25%;
+    width: 10%;
 }
 
 .container .text{
     float: right;
-    width: 70%;
+    width: 50%;
     height: 270px;
     overflow: hidden;
 }
