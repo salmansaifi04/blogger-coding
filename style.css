@@ -20,7 +20,7 @@
 
 /* post 1 start*/
 .container{
-    width: 800px;
+    width: 1000px;
     margin: 0;
     padding: 0;
 }
@@ -31,37 +31,37 @@
 
 .container .img{
     float: left;
-    padding: 2% 0 0 3%;
+    padding: 10px 0 0 15px;
     height: 270px;
-    width: 10%;
+    width: 300px;
 }
 
 .container .text{
     float: right;
-    width: 50%;
+    width: 750px;
     height: 270px;
     overflow: hidden;
 }
 
 .container .section{
-    width: 100%;
+    width: 1000px;
     text-align: center;
 }
 
 .container .section .left{
     float: left;
-    width: 45%;
+    width: 450px;
     text-align: left;
 }
 
 .container .section .right{
     float: right;
-    width: 45%;
+    width: 450px;
     text-align: left;
 }
 
 .container .section li{
-    margin-left: 10%;
+    margin-left: 45px;
 }
 
 
