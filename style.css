@@ -4,7 +4,7 @@
 
 .nav-bar ul li a{
     text-decoration: none;
-    color: black;
+    color: white;
     display: inline-block;
 }
 
@@ -14,5 +14,5 @@
 }
 
 .nav-bar ul li a:hover{
-    border-left: 5px solid black;
+    border-left: 5px solid white;
 }
