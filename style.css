@@ -17,3 +17,47 @@
     border-left: 5px solid white;
 }
 
+/* post1 start */
+.clr{
+    clear: both;
+}
+
+.container1 .img{
+    float: left;
+    padding: 5% 0 0 5px;
+    width: 180px;
+}
+
+.container1 .text{
+    float: right;
+    width: 450px;
+    height: 290px;
+    overflow: hidden;
+}
+
+.container1 .text p{
+  margin:0;
+}
+  
+.container1 .section{
+    text-align: center;
+  	width:640px;
+  	margin-left:0;
+}
+
+.container1 .section .left{
+    float: left;
+    width: 300px;
+    text-align: left;
+}
+
+.container1 .section .right{
+    float: right;
+    width: 300px;
+    text-align: left;
+}
+
+.container1 .section li{
+    margin-left: 20px;
+}
+/* post1 end */
