@@ -12,11 +12,11 @@
     text-decoration: none;
     color: black;
     display: inline-block;
-    padding:5px;
 }
 
 .nav-bar ul li a i{
     margin-right: 6px;
+    margin-left:5px;
 }
 
 .nav-bar ul li a:hover{
